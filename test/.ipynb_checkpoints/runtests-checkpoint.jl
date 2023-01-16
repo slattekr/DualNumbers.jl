@@ -15,4 +15,3 @@ z = x+y
 
 @test 4* x == Dual(4, 8)
 @test  y*5  == Dual(10, 15)
-
